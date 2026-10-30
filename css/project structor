@@ -1,0 +1,12 @@
+Event-Booking-System/
+│
+├── index.html
+├── booking.html
+├── dashboard.html
+│
+├── css/
+│   └── style.css
+│
+└── js/
+    ├── booking.js
+    └── dashboard.js
